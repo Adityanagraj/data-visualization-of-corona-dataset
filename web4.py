@@ -1,3 +1,5 @@
+#webscrapping data from website please look into the T&C of the website
+#website:https://www.worldometers.info/coronavirus/
 import requests
 import csv
 from bs4 import BeautifulSoup
