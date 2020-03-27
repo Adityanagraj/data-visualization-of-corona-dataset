@@ -3,8 +3,8 @@ It plots the various covid 19 affected regions all over the world
 overview:<br>
 Unlike the conventional way of getting the data in this project data has been web scraped using python where the data obtained is stored in the .csv format<br>
 tools used:
-  <b>IDE:SublimeText
-  libraries:BeautifulSoup,Requests,csv</b>
+  <b>IDE:SublimeText<br>
+  libraries:BeautifulSoup,Requests,csv</b><br>
 once the data obtained which consists of all the the details but to plot on map we need latitude and longitude values
 for tat use and Google Api or use an add on funtion name(genocode by Awesome table) in Spreadsheet
 once all the requirements are satisfied
