@@ -10,5 +10,5 @@ for tat use and Google Api or use an add on funtion name(genocode by Awesome tab
 once all the requirements are satisfied<br>
 load the .csv file into JUPITER NoteBook and proceed<br>
 <b>IDE:JUPITER NoteBook<br>
-<b>Libraries:numpy,pandas,os
+<b>Modules:numpy,pandas,os
 
