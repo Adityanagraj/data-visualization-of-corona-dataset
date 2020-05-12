@@ -1,4 +1,5 @@
 # data-visualization-of-corona-dataset
+![visulization](picture2.png)
 It plots the various covid 19 affected regions all over the world 
 overview:<br>
 Unlike the conventional way of getting the data in this project data has been web scraped using python where the data obtained is stored in the .csv format<br>
