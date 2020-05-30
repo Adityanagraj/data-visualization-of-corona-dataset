@@ -10,7 +10,7 @@ once the data obtained which consists of all the the details but to plot on map 
 for tat use and Google Api or use an add on funtion name(genocode by Awesome table)in Spreadsheet
 once all the requirements are satisfied<br>
 load the .csv file into JUPITER NoteBook and proceed<br>
-<b>IDE:JUPYTER NoteBOOk<br>
+<b>IDE:JUPYTER NOTEBOOK<br>
 <b>Modules:numpy,pandas,os
   
 
